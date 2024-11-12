@@ -1,0 +1,9 @@
+John, perak, john123@gmail.com, 0123456789, M, 09/07/1998, john13, john13
+Lumine, genshin impact, lumine123@gmail.com, 0168398629, F, 03/04/1997, lumine1, lumine1, panadol, lithium
+Ganyu, Puchong, ganyu343@gmail.com, 0143579865, F, 08/09/1995, ganyu22, ganyu22
+Venti, Sunway, venti900@gmail.com, 0138947287, M, 01/02/1998, venti12, venti34
+Klee, bukit jalil, klee123@gmail.com, 0123456789, F, 09/08/1996, klee1, klee1
+yelan, ipoh, yelan123@gmail.com, 0129876543, F, 09/01/2002, yelan1, dsd
+Itto, perak, itto123@gmail.com, 0123456789, M, 09/08/1997, itto1, itto1
+itto, perak, itto1234@gmail.com, 0123456789, M, 08/09/1997, itto12, itto12
+ljhgfds,ugugug, vfh, fvgfdb, bgfbgf, bgb, bfdbd, vdss, gfdg

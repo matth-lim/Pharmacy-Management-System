@@ -1,0 +1,7 @@
+MED02, Panadol, 02/09/2025, $35
+MED03, Diltiazem, 08/05/2026, $34
+MED04, Lithium, 03/09/2027, $100
+MED05, Mesalazine, 10/03/2030, $19
+MED08, Strepsils, 08/03/2027, $89
+MED10, Albuterol, 08/12/2026, $40
+MED11, coughing medicine, 08/12/2026, $70
