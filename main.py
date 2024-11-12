@@ -1,5 +1,4 @@
 # MATTHEW LIM JIAN LE
-# TP063398
 
 from os import system
 
