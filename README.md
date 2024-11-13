@@ -4,7 +4,7 @@ This is one of my first Python projects, it is a simple program that uses the co
 
 <br>
 <div align="center">
-    <img src="Demo/demo_1.png" alt="Demo 1" width="300">
+    <img src="Demo/demo_1.png" alt="Demo 1" width="500">
 </div>
 <br>
 <div align="center">
